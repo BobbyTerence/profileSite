@@ -1,0 +1,12 @@
+//This is my custom scss, utilizing the bootstrap library
+
+//As this is my first time utilizing this and I am learning its features, I will be importing the entirety of bootstrap
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+//Custom Styling
+
+.content {
+    margin-right: 8rem;
+    margin-left: 8rem;
+}
